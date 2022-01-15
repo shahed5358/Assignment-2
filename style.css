@@ -139,11 +139,11 @@ section{
 footer p{
     font-size: 12px;
 }
-.social-communiction{
+footer ul{
     display: flex;
     justify-content: center;
 }
-.social-communiction li{
+footer>ul>li{
     list-style: none;
     padding: 10px;
     height: 40px;
