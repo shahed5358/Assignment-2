@@ -51,6 +51,7 @@ section{
     width: 100%;
     margin-top: -80px;
  }
+ 
  .link-button{
     text-decoration: none;
     background-color: rgba(250, 7, 100, 0.898);
@@ -64,8 +65,11 @@ section{
     logo-banner styles 
 ---------------------*/
 .logo{
-    margin: 70px;
+    margin: 50px;
     padding: 0%;
+}
+hr{
+    color: gray;
 }
 .logo-item{
     list-style: none;
@@ -87,6 +91,7 @@ section{
     margin-left: 100px;
     margin-right: 100px;
     grid-column-gap: 30px;
+    
    
 }
 .collection{
@@ -98,6 +103,7 @@ section{
 .collection img{
     width: 100%;
 }
+
  .section-title{
     text-align: center;
 
